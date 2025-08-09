@@ -1,7 +1,7 @@
 {
   "name": "myapp",
   "version": "0.1.0",
-  "homepage": "/FSAD-S104/",
+  "homepage": "/Sample/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
